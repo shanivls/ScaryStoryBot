@@ -1,0 +1,14 @@
+directories_paths:
+  base_videos: C:\Users\shani\Work2\scarystory\ScaryStoryVideoBot\resources\base_videos
+  cut_videos: C:\Users\shani\Work2\scarystory\ScaryStoryVideoBot\resources\cut_videos
+  final_videos: C:\Users\shani\Work2\scarystory\ScaryStoryVideoBot\resources\final_videos
+  stories_text: C:\Users\shani\Work2\scarystory\ScaryStoryVideoBot\resources\stories_text
+  stories_voices: C:\Users\shani\Work2\scarystory\ScaryStoryVideoBot\resources\stories_voices
+story:
+  story_index: 1
+video:
+  default_file_name: vid
+  last_video_time: 240
+  video_index: 1
+  video_length: 1976.02
+  video_subindex: 5
